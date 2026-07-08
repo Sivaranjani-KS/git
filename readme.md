@@ -2,4 +2,4 @@
 
 This is a complete courses
 
-# this from bug
+# this from bugs
